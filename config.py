@@ -1,5 +1,5 @@
-GROQ_API_KEY = "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"
-YOUTUBE_API_KEY = "AIzaSyDyQm3y2lYrq7dHiVwXVt5REaP08gmAGJY"
+GROQ_API_KEY = ""
+YOUTUBE_API_KEY = ""
 ACCOUNTS = [
     {
         'username': "scroll_farm",
