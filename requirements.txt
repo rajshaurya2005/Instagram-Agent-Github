@@ -1,0 +1,5 @@
+streamlit 
+groq
+instagrapi
+google
+yt_dlp
